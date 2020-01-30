@@ -121,7 +121,7 @@ if __name__ == "__main__":
             print('blink')
             if start == False:
                 ypos = 300
-                start = True  # <-------    [JEŚLI NIE CHCECIE ŻEBY GRA SIĘ WŁĄCZAŁA NA MRUGNIĘCIE TO USUŃCIE TEN WIERSZ!!!]
+                start = True  # 
             vel = 7
             blink.value = 0
         if start:
